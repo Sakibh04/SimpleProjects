@@ -1,2 +1,2 @@
-# SimpleProjects
-A collection of relatively simple and short projects to gain knowledge and understanding on coding fundamentals and widening my technical skillset.
+# Snake Game
+First iteration of the snake game that is largely functional, improvements to come on aspects such as design, sprites and more.
